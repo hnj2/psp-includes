@@ -17,6 +17,7 @@
 #define SVC_CALL_OTHER_PSP            0x31
 #define SVC_CACHE_FLUSH               0x37
 #define SVC_GET_STATE_BUFFER          0x3c
+#define SVC_ECC_MATH                  0x41
 
 #define SVC_QUERY_TWO_64BIT_VALS      0x48
 
